@@ -1,0 +1,67 @@
+{
+	"wordpress": {
+		"modifiers": {
+			"per_page": 1.5
+		},
+		"hours": {
+			"minimum": 45,
+			"assets": {
+				"images": 10
+			},
+			"functionality": {
+				"contact_form": 5,
+				"newsletter_form": 7.5,
+				"catalog": 20,
+				"events": 10,
+				"blog": 2,
+				"social_media": 0.25,
+				"map": 0.5,
+				"testimonials": 3
+			},
+			"style": {
+				"traditional_layout": 4,
+				"creative_layout": 6,
+				"rotating_slide": 4,
+				"static_slide": 2
+			},
+			"focus": {
+				"slide": 4,
+				"select_services": 3,
+				"news": 3
+			}
+		}
+	},
+	"ecommerce": {
+		"modifiers": {
+			"per_product": 1.5
+		},
+		"hours": {
+			"minimum": 75,
+			"assets": {
+				"images": 10
+			},
+			"key_features": {
+				"search_opitimization": 3,
+				"contact_form": 5,
+				"newsletter_form": 7.5,
+				"blog": 2,
+				"social_media": 0.25,
+				"map": 0.5,
+				"reviews": 3
+			},
+			"exports": {
+				"google_feed": 2,
+				"ebay_feed": 2,
+				"amazon_feed": 2
+			}
+		}	
+	},
+	"custom": {
+		"hours": {
+			"minimum": 45,
+			"assets": {
+				"images":10
+			}
+		}
+	}		
+}
