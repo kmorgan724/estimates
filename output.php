@@ -1,0 +1,1 @@
+<h2 class="text-success text-center">This project will take a minimum of <?php echo $totalHours; ?> hours.</h2>
